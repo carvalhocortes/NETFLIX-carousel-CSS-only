@@ -1,4 +1,4 @@
-# NETFLIX-carousel-onlyCSS
+# NETFLIX-carousel-CSS-only
 Netflix’s carousel with CSS only, are possible?
 
 This is a study proposal by Kevin Powell to make a carousel using only CSS.
